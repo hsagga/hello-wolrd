@@ -1,2 +1,5 @@
 # hello-wolrd
-just trying this out ...
+
+Hello Peaple,
+I'm honeyBzz, and I love starbucks...
+
